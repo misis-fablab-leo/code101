@@ -4,6 +4,10 @@ JS code snippets
 **My FabLab repo**
 
 
+## FabLab <3
+
+<img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/60cb842b-a914-4086-b54a-4a41964641d0" />
+
 ## Список
 
 - Информационные технологии
@@ -36,5 +40,4 @@ console.log("Hello");
 ![Demo GIF](images/demo.gif)
 
 
-<img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/e7eb4be1-c5f9-4b18-8d07-d3b2258a04a6" />
 
