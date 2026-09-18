@@ -17,7 +17,7 @@ JS code snippets
 
 ## Ссылка
 
-[Репозиторий одногруппника](https://github.com/m112521/code101)
+[Репозиторий босса](https://github.com/m112521/code101)
 
 
 ## Таблица
